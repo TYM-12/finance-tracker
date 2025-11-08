@@ -1,0 +1,18 @@
+{
+    "expenses": [
+        {
+            "category": "shopping",
+            "amount": 150.0
+        },
+        {
+            "category": "food",
+            "amount": 10.0
+        }
+    ],
+    "incomes": [
+        {
+            "category": "salary",
+            "amount": 1e+17000000000000000
+        }
+    ]
+}
